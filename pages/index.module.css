@@ -64,4 +64,27 @@
 .main .result {
   font-weight: bold;
   margin-top: 40px;
+  text-align: center;
+  width: 20rem;
+}
+
+.main .strong {
+  color: #10a37f;
+}
+
+.main .weak {
+  color: #ff4747;
+}
+
+.main .medium {
+  color: #ffb247;
+}
+
+.main .password {
+  background-color: #efefef;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.3rem;
+  margin-bottom: 0.5rem;
 }
